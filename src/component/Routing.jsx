@@ -10,7 +10,7 @@ import Navbar from './Navbar';
 import Login from './Login';
 import AddProduct from './AddProduct';
 import Cart from './Cart';
-import Fotter from '../Pages/fotter';
+import Fotter from '../Pages/Fotter';
 import Signup from './Signup';
 
 
