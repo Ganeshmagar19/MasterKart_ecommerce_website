@@ -5,7 +5,7 @@ const Cart = () => {
 
   const { dispatch, state } = useContext(CartContext)
 
-  const RemoveProduct = (id) => {
+  const Remove = (id) => {
     dispatch({ type: "Remove", payload: { id } })
   }
 
